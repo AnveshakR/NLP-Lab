@@ -1,0 +1,8 @@
+Syntactic parsing is a technique by which segmented, tokenized, and part-of-speech tagged
+text is assigned a structure that reveals the relationships between tokens governed by syntax
+rules, e.g. by grammars. Consider the sentence:
+The factory employs 12.8 percent of Bradford County.
+A syntax parse produces a tree that might help us understand that the subject of the sentence
+is “the factory”, the predicate is “employs”, and the target is “12.8 percent”, which in turn is
+modified by “Bradford County.” Syntax parses are often a first step toward deep information
+extraction or semantic understanding of text.
